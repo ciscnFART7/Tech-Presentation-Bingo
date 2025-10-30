@@ -1,0 +1,2 @@
+# Daily Notes
+Introduce custom hooks to abstract state management logic
